@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1556116742 source:c:\users\alumno\desktop\abm_empleados\empleados.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Empleados.h"
+	"Funciones_Validar.h"
+
+1556118570 c:\users\alumno\desktop\abm_empleados\empleados.h
+
+1556111215 c:\users\alumno\desktop\abm_empleados\funciones_validar.h
+
+1556111215 source:c:\users\alumno\desktop\abm_empleados\funciones_validar.c
+
+1556116967 source:c:\users\alumno\desktop\abm_empleados\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Empleados.h"
+	"Funciones_Validar.h"
+
