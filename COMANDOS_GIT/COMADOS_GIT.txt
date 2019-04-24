@@ -1,0 +1,24 @@
+
+GIT COMANDOS
+------------
+
+1) git config --global user.name "Nombre de usuario"
+
+2) git config --global user.mail "mailUsuario"
+
+3) git clone "SERIA EL REPOSITORIO"
+
+4) cd (INGRESAMOS EN LA CARPETA QUE CLONAMOS"
+
+5) Guardamos el archivo y comprobamos, CON git status (TIENE QUE APARECER EN ROJO). Rojo significa q no se guardo
+
+6) git add .
+
+7) git status (Tiene que aprecer en VERDE)
+
+8) git commit -m "HOLA ESTOY SUBIENDO ALGO" (es un comentario)
+
+9) git push origin master -f 
+                           
+                           Nos pide: 1) nombre de usuario
+                                     2) contraseña de usuario	
