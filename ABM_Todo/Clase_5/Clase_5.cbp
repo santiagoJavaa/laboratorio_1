@@ -2,12 +2,12 @@
 <CodeBlocks_project_file>
 	<FileVersion major="1" minor="6" />
 	<Project>
-		<Option title="ABM_Empleados" />
+		<Option title="Clase_5" />
 		<Option pch_mode="2" />
 		<Option compiler="gcc" />
 		<Build>
 			<Target title="Debug">
-				<Option output="bin/Debug/ABM_Empleados" prefix_auto="1" extension_auto="1" />
+				<Option output="bin/Debug/Clase_5" prefix_auto="1" extension_auto="1" />
 				<Option object_output="obj/Debug/" />
 				<Option type="1" />
 				<Option compiler="gcc" />
@@ -16,7 +16,7 @@
 				</Compiler>
 			</Target>
 			<Target title="Release">
-				<Option output="bin/Release/ABM_Empleados" prefix_auto="1" extension_auto="1" />
+				<Option output="bin/Release/Clase_5" prefix_auto="1" extension_auto="1" />
 				<Option object_output="obj/Release/" />
 				<Option type="1" />
 				<Option compiler="gcc" />
@@ -31,21 +31,13 @@
 		<Compiler>
 			<Add option="-Wall" />
 		</Compiler>
-		<Unit filename="Empleados.c">
-			<Option compilerVar="CC" />
-		</Unit>
-		<Unit filename="Empleados.h" />
-		<Unit filename="Funciones_Validar.c">
-			<Option compilerVar="CC" />
-		</Unit>
-		<Unit filename="Funciones_Validar.h" />
-		<Unit filename="Menu.c">
-			<Option compilerVar="CC" />
-		</Unit>
-		<Unit filename="Menu.h" />
 		<Unit filename="main.c">
 			<Option compilerVar="CC" />
 		</Unit>
+		<Unit filename="validaciones.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="validaciones.h" />
 		<Extensions>
 			<code_completion />
 			<envvars />
